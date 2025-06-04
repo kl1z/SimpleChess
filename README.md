@@ -19,7 +19,20 @@
 git clone https://github.com/kl1z/SimpleChess.git
 cd SimpleChess
 ````
-### 2. Установите зависимости
+
+### 2. Создаейте виртуальное окружение и активируйте его
+````bash
+python3 -m venv venv
+````
+Linux/MacOS:
+````bash
+source venv/bin/activate
+````
+Windows:
+````bash
+venv\Scripts\activate
+````
+### 3. Установите зависимости
 
 ````bash
 pip install -r requirements.txt
