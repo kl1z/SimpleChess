@@ -20,7 +20,7 @@ git clone https://github.com/kl1z/SimpleChess.git
 cd SimpleChess
 ````
 
-### 2. Создаейте виртуальное окружение и активируйте его
+### 2. Создайте виртуальное окружение и активируйте его
 ````bash
 python3 -m venv venv
 ````
