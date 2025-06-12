@@ -1,4 +1,3 @@
-import asyncio
 import platform
 import pygame
 import chess
