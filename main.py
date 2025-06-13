@@ -1,4 +1,3 @@
-import platform
 import pygame
 import chess
 import chess.engine
